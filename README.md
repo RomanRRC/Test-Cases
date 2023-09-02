@@ -11,6 +11,7 @@
 <p><strong> Задание 2 </strong></p>
 Для сайта https://demo.guru99.com/telecom/index.html необходимо составить тест кейсы на функциональность Add Customer (в QASE) (Testing Documentaion.pdf)
 
+
 <p><strong> Задание 3 </strong></p>
 
 В рамках задания провести тестирование интернет-магазина и подготовить ряд тестовой документации http://demowebshop.tricentis.com/
